@@ -7,6 +7,7 @@ void main(){
 		scanf("%d",&in);
 		for(i=0;i<n;i++){
 			printf("%d ",i);
+            //branch3
 		}
 	}
 
