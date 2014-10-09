@@ -7,6 +7,10 @@ From git_test_2 branch
 =======
 From git_test_1 branch
 >>>>>>> a11206b42835904ebec6c568642f030fb16850c9
+<<<<<<< HEAD
 
 
 changed_from git_test_1
+=======
+dfadfadsfsdfs
+>>>>>>> 83162b77cf4f192879e2c9cd225c8af8f4ec114e
