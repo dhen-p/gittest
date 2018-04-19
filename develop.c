@@ -9,6 +9,7 @@ void main(){
 			printf("%d ",i);
 		}
 		printf("add new line in master branch after rebase_test created");
+		printf("add new line on rebase_test branch");
 	}
 
 }
