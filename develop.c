@@ -8,6 +8,7 @@ void main(){
 		for(i=0;i<n;i++){
 			printf("%d ",i);
 		}
+		printf("add new line in master branch after rebase_test created");
 	}
 
 }
